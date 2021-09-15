@@ -78,6 +78,8 @@ export default function HeroSection() {
             </div>
             <button className="bg-brand-yellow text-primary-brand-color transition-colors hover:bg-primary-brand-color hover:text-brand-yellow h-12 flex items-center justify-center rounded-md w-full txt-sm font-semibold ">
               Telefon numarası ile devam et
+
+              
             </button>
             <hr className="h-[1px] bg-gray-300 my-2"></hr>
 
